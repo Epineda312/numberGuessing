@@ -1,2 +1,2 @@
 # numberGuessing
-Number Guessing Game. DOM manipulation practice
+Number Guessing Game. Possible numbers are 1-20 at the moment. DOM manipulation practice
